@@ -11,7 +11,7 @@ A humorous AI-powered HTTPS checker that checks if a website uses HTTPS and prov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/https_checker.git
+   git clone https://github.com/Wasserpuncher/https_checker.git
    cd https_checker
 pip install -r requirements.txt
 
